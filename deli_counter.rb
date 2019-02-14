@@ -26,4 +26,4 @@ def now_serving
     puts "Currently serving #{line.first}"
     katz_deli.shift
   end
-end 
+end
